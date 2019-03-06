@@ -1,10 +1,6 @@
 #Dependencies
 import os
 import csv
-import pandas as pd
-import numpy as np
-
-
 
 #Read csv to dataframe
 csvpath = os.path.join('budget_data.csv')
